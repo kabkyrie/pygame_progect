@@ -236,6 +236,7 @@ class Soldier(pygame.sprite.Sprite):
 
             self.ammo -= 1
 
+
     def ai(self):
         if self.alive and player.alive:
             if self.idling == False and random.randint(1, 200) == 1:

@@ -30,7 +30,7 @@ Basic controls:
 Game visuals:
 -
 
-![](img/visual.png)
+![](https://github.com/kabkyrie/pygame_progect/blob/master/visual.png)
 
 
 Autor:
